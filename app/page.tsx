@@ -1,12 +1,8 @@
 import { CategorySection } from "@/components/CategorySection";
 import Footer from "@/components/Footer";
-import Learn from "@/components/Learn";
-import MusicDance from "@/components/MusicDance";
 import Navigation from "@/components/Navigation";
 import { PatternBackground } from "@/components/PatternBackground";
-import Story from "@/components/Story";
 import { Shapes, BookOpen, Sun, Rocket, Music, Cat } from "lucide-react";
-import { toy } from "./theme/colors";
 import { Hero } from "@/components/Hero";
 
 export default function Home() {
